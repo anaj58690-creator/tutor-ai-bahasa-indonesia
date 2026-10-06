@@ -1,0 +1,4 @@
+data_belajar.db
+.streamlit/secrets.toml
+__pycache__/
+.venv/
